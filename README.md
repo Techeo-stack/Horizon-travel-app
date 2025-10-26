@@ -81,7 +81,7 @@ The web app represents a fictional travel company called **Horizen Travel Co.**,
 - Connect the form to a **backend** for handling user submissions.
 - Implement animations and transitions for a smoother user experience.
 
-## 👩🏽Author
+## Author
 
 **Designed & Developed by:** _Esther-Ola_
 **Year:** 2025
